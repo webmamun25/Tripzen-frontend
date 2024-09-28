@@ -1,0 +1,1949 @@
+[
+  {
+    "popular": false,
+    "id": 1,
+    "days": 7,
+    "locationName": "Kyoto",
+    "country": "Japan",
+    "img": "https://i.ibb.co/xXLvhdM/Image1.jpg",
+    "description": "Discover the heart and soul of Japan through its rich cultural heritage. Explore ancient temples and serene gardens, where tranquility and spirituality intertwine. Witness centuries-old traditions preserved in every corner, from intricate tea ceremonies to traditional crafts. Immerse yourself in the nation's history as you wander through historic sites, each stone whispering tales of the past. Experience the true essence of Japan as you connect with its timeless beauty and warm hospitality.",
+    "offered": true,
+    "price": 1200,
+    "type": "Cultural",
+    "rating": 4.8,
+    "tripMonth": "March",
+    "minAge": {
+      "children": 6,
+      "adults": 18
+    },
+    "included": [
+      "Bus tickets",
+      "Daily meals",
+      "Accommodation",
+      "Guided tours",
+      "Museum entry tickets"
+    ],
+    "excluded": [
+      "International flight tickets",
+      "Visa fees",
+      "Personal expenses",
+      "Additional meals not specified",
+      "Optional tours"
+    ],
+    "extraServices": [
+  
+     "Basic health insurance coverage for the duration of the trip.",
+
+     
+        "Comprehensive medical insurance including emergency evacuation.",
+
+      "Private airport transfer available at an additional cost.",
+
+  
+ "Local SIM card with data package available upon request."
+      
+]
+  },
+  {
+    "popular": true,
+    "id": 2,
+    "days": 9,
+    "locationName": "Cusco",
+    "country": "Peru",
+    "img": "https://i.ibb.co/sRSMNGT/Image-2.png",
+    "description": "Immerse yourself in the heart of the ancient Inca Empire with a visit to Cusco. Explore the city's captivating blend of pre-Columbian and colonial architecture, a testament to its rich history. Wander through the charming streets, discovering hidden treasures at every turn. Venture beyond the city limits to the mystical Sacred Valley, where you can explore ancient ruins and connect with the Incan spirit. The ultimate highlight awaits at Machu Picchu, the iconic lost city perched high in the Andes Mountains. This breathtaking archaeological site offers a glimpse into the extraordinary engineering and architectural prowess of the Inca civilization.",
+    "offered": false,
+    "price": 1400,
+    "type": "Cultural",
+    "tripMonth": "August",
+    "rating": 4.7,
+    "minAge": {
+      "children": 8,
+      "adults": 18
+    },
+    "included": [
+      "Bus tickets",
+      "Daily meals",
+      "Accommodation",
+      "Guided tours",
+      "Entrance fees to Sacred Valley and Machu Picchu"
+    ],
+    "excluded": [
+      "International flight tickets",
+      "Visa fees",
+      "Personal expenses",
+      "Additional meals not specified",
+      "Optional tours"
+    ],
+    "extraServices": [
+    
+      "Basic health insurance coverage for the duration of the trip.",
+  
+      
+        "Comprehensive medical insurance including emergency evacuation.",
+
+      
+      "Private airport transfer available at an additional cost.",
+ 
+
+        "Local SIM card with data package available upon request."
+    ]
+    
+  },
+  {
+    "popular": false,
+    "id": 3,
+    "days": 8,
+    "locationName": "Queenstown",
+    "country": "New Zealand",
+    "img": "https://i.ibb.co/qB605gf/Image-3.png",
+    "description": "Seek thrills and breathtaking landscapes in the adventure capital of the world. Soar through the sky with an exhilarating bungee jump or skydive, pushing your limits and experiencing an adrenaline rush like no other. Immerse yourself in the stunning beauty of towering mountains, offering endless opportunities for hiking, climbing, and exploring the great outdoors. Whether you're a seasoned adventurer or a thrill-seeker at heart, this destination promises an unforgettable experience filled with excitement and wonder.",
+    "offered": true,
+    "price": 1500,
+    "type": "Adventure",
+    "tripMonth": "June",
+    "rating": 4.6,
+    "minAge": {
+      "children": 12,
+      "adults": 18
+    },
+    "included": [
+      "Adventure activity passes (bungee jump, skydive)",
+      "Daily meals",
+      "Accommodation",
+      "Hiking tours",
+      "Transportation to activity sites"
+    ],
+    "excluded": [
+      "International flight tickets",
+      "Visa fees",
+      "Personal expenses",
+      "Optional adventure activities",
+      "Travel insurance"
+    ],
+    "extraServices": [
+     
+       "Basic health insurance coverage for the duration of the trip.",
+   
+     
+       "Additional insurance coverage for extreme sports available upon request.",
+
+   
+     "Equipment rental for activities like climbing and kayaking available at an additional cost."
+  
+    ]
+  },
+  {
+    "popular": true,
+    "id": 4,
+    "days": 10,
+    "locationName": "Cape Town",
+    "country": "South Africa",
+    "img": "https://i.ibb.co/PcH1vwD/Image-4.png",
+    "description": "Discover the magic of Cape Town, where stunning natural beauty meets cosmopolitan flair. Ascend iconic Table Mountain for breathtaking panoramic views of the city and coastline. Immerse yourself in history with a visit to Robben Island, a poignant reminder of South Africa's past. Indulge in world-class wines on a scenic tour through the Cape Winelands, and relax on the golden sands of renowned beaches. Cape Town offers an unforgettable blend of adventure, culture, and natural splendor.",
+    "offered": true,
+    "price": 1350,
+    "type": "Scenic",
+    "tripMonth": "November",
+    "rating": 4.9,
+    "minAge": {
+      "children": 6,
+      "adults": 18
+    },
+    "included": [
+      "Table Mountain cable car tickets",
+      "Daily meals",
+      "Accommodation",
+      "Winelands tour",
+      "Guided tours to historical sites"
+    ],
+    "excluded": [
+      "International flight tickets",
+      "Visa fees",
+      "Personal expenses",
+      "Optional activities",
+      "Travel insurance"
+    ],
+    "extraServices": [
+     
+        "Basic health insurance coverage for the duration of the trip.",
+    
+     
+         "Premium wine tasting experiences available at an additional cost.",
+   
+        "Private guided tours available upon request."
+ 
+    ]
+  },
+  {
+    "popular": true,
+    "id": 5,
+    "days": 6,
+    "locationName": "Santorini",
+    "country": "Greece",
+    "img": "https://i.ibb.co/WtSWHwP/Image-5.png",
+    "description": "Discover the enchanting allure of Santorini, a Greek island carved by volcanic forces. Immerse yourself in the island's unique beauty with its iconic blue-domed churches, whitewashed houses, and breathtaking caldera views. Explore the volcanic beaches, where black sands meet crystal-clear waters, or indulge in relaxation at luxurious infinity pools. Unveil the island's rich history with visits to ancient ruins and archaeological sites. Santorini promises an unforgettable escape to a paradise sculpted by nature.",
+    "offered": false,
+    "price": 1300,
+    "type": "Scenic",
+    "tripMonth": "February",
+    "rating": 4.5,
+    "minAge": {
+      "children": 5,
+      "adults": 18
+    },
+    "included": [
+      "Daily meals",
+      "Accommodation with caldera views",
+      "Guided tours to archaeological sites",
+      "Boat tour of the caldera",
+      "Transfers between sites"
+    ],
+    "excluded": [
+      "International flight tickets",
+      "Visa fees",
+      "Personal expenses",
+      "Additional meals not specified",
+      "Optional excursions"
+    ],
+    "extraServices": [
+
+       "Basic health insurance coverage for the duration of the trip.",
+     
+     "Luxury spa packages available at select accommodations.",
+    
+   "Private yacht charters available for an additional fee."
+    ]
+    }
+  ,
+  {
+    "popular": false,
+    "id": 6,
+    "days": 7,
+    "locationName": "Bergen",
+    "country": "Norway",
+    "img": "https://i.ibb.co/R2cnqf8/Image-6.png",
+    "description": "Discover the enchanting city of Bergen, nestled amidst Norway's breathtaking fjords. Explore the historic Bryggen wharf, a UNESCO World Heritage Site, with its colorful wooden houses and vibrant atmosphere. Immerse yourself in Bergen's rich maritime heritage as you stroll through its charming streets and admire the stunning architecture. For a panoramic view of the city and its surroundings, take a ride on the Fløyen funicular. With its blend of history, nature, and modern charm, Bergen offers an unforgettable experience for every visitor.",
+    "offered": true,
+    "price": 1450,
+    "type": "Cultural",
+    "tripMonth": "April",
+    "rating": 4.4,
+    "minAge": {
+      "children": 8,
+      "adults": 18
+    },
+    "included": [
+      "Fløyen funicular tickets",
+      "Daily meals",
+      "Accommodation",
+      "Guided walking tours",
+      "Museum entry tickets"
+    ],
+    "excluded": [
+      "International flight tickets",
+      "Visa fees",
+      "Personal expenses",
+      "Optional tours",
+      "Travel insurance"
+    ],
+    "extraServices": [
+  
+        "Basic health insurance coverage for the duration of the trip.",
+ 
+  
+      "Upgraded fjord cruise available at an additional cost.",
+     
+         "Bike rentals available for exploring the city and surrounding areas."
+      
+]
+  },
+  {
+    "popular": true,
+    "id": 7,
+    "days": 10,
+    "locationName": "Siem Reap",
+    "country": "Cambodia",
+    "img": "https://i.ibb.co/72RMJMf/Image-7.png",
+    "description": "Embark on an extraordinary journey through time as you explore the majestic Angkor Wat, a crown jewel of Southeast Asia. This awe-inspiring temple complex, a testament to the Khmer Empire's architectural brilliance, is a UNESCO World Heritage site for a reason. Marvel at the intricate carvings, colossal statues, and the perfect symmetry of this ancient wonder. Lose yourself in the serene atmosphere as you wander through the sprawling complex, uncovering hidden corners and hidden stories. A visit to Angkor Wat is an unforgettable experience that will leave you in awe of human ingenuity and the passage of time.",
+    "offered": false,
+    "price": 1250,
+    "type": "Cultural",
+    "tripMonth": "June",
+    "rating": 4.8,
+    "minAge": {
+      "children": 8,
+      "adults": 18
+    },
+    "included": [
+      "Guided tours of Angkor Wat",
+      "Daily meals",
+      "Accommodation",
+      "Temple entrance fees",
+      "Airport transfers"
+    ],
+    "excluded": [
+      "International flight tickets",
+      "Visa fees",
+      "Personal expenses",
+      "Optional tours",
+      "Travel insurance"
+    ],
+    "extraServices": [
+    
+        "Basic health insurance coverage for the duration of the trip.",
+   
+       "Private local guide available at an additional cost.",
+
+     "Tickets to traditional Apsara dance performances available upon request."
+      
+]
+  },
+  {
+    "popular": false,
+    "id": 8,
+    "days": 8,
+    "locationName": "Banff",
+    "country": "Canada",
+    "img": "https://i.ibb.co/9N4zLCx/Image-8.png",
+    "description": "Immerse yourself in the breathtaking beauty of Banff National Park, where nature's artistry is on full display. Explore a landscape of towering mountains, pristine glaciers, and crystal-clear lakes that will leave you in awe. Hike through lush forests, kayak on the calm waters, or simply relax and soak in the stunning scenery. From the iconic Lake Louise to the majestic Mount Robson, Banff offers an unforgettable adventure for every nature lover.",
+    "offered": true,
+    "price": 1400,
+    "type": "Scenic",
+    "tripMonth": "August",
+    "rating": 4.7,
+    "minAge": {
+      "children": 5,
+      "adults": 18
+    },
+    "included": [
+      "Guided hiking tours",
+      "Daily meals",
+      "Accommodation",
+      "Kayak rental",
+      "National Park entry fees"
+    ],
+    "excluded": [
+      "International flight tickets",
+      "Visa fees",
+      "Personal expenses",
+      "Optional excursions",
+      "Travel insurance"
+    ],
+    "extraServices": [
+     
+        "Basic health insurance coverage for the duration of the trip.",
+   
+     
+         "Private wildlife safari experience available at an additional cost.",
+      
+   
+       "Guided photography tours available upon request."
+      
+    ]
+  },
+  {
+    "popular": true,
+    "id": 9,
+    "days": 12,
+    "locationName": "Kyrenia",
+    "country": "Cyprus",
+    "img": "https://i.ibb.co/9p7L2MC/Image-9.png",
+    "description": "Escape to the charming coastal town of Kyrenia, where history and relaxation intertwine. Explore the majestic Kyrenia Castle, a medieval fortress offering stunning views of the harbor. Wander through the town's picturesque streets, lined with quaint shops and traditional Cypriot tavernas. Unwind on the golden sands of Kyrenia's beaches, bathed in the warm Mediterranean sun. Immerse yourself in the crystal-clear waters, perfect for swimming, snorkeling, or simply soaking up the idyllic ambiance. Kyrenia promises a tranquil escape, combining the allure of the past with the beauty of the present.",
+    "offered": false,
+    "price": 1300,
+    "type": "Scenic",
+    "tripMonth": "February",
+    "rating": 4.6,
+    "minAge": {
+      "children": 5,
+      "adults": 18
+    },
+    "included": [
+      "Guided tours of Kyrenia Castle",
+      "Daily meals",
+      "Accommodation",
+      "Beach access and amenities",
+      "Airport transfers"
+    ],
+    "excluded": [
+      "International flight tickets",
+      "Visa fees",
+      "Personal expenses",
+      "Optional excursions",
+      "Travel insurance"
+    ],
+    "extraServices": [
+      
+        "Basic health insurance coverage for the duration of the trip.",
+     
+     
+        "Private boat tours of the coast available at an additional cost.",
+    
+      
+        "Luxury spa packages available at select accommodations."
+
+    ]
+  },
+  {
+    "popular": false,
+    "id": 10,
+    "days": 7,
+    "locationName": "Zanzibar",
+    "country": "Tanzania",
+    "img": "https://i.ibb.co/CbBGnBh/Image-10.png",
+    "description": "Escape to the enchanting island of Zanzibar, where pristine beaches meet vibrant culture. Immerse yourself in the island's rich history as you explore the historic Stone Town, a UNESCO World Heritage Site. Wander through narrow winding streets lined with ancient buildings, and discover the vibrant spice markets that once made Zanzibar famous. Relax on the powdery white sands of Zanzibar's stunning beaches, where crystal-clear waters invite you to swim, snorkel, or simply soak up the sun. For a truly unforgettable experience, venture into the heart of the island to explore lush spice plantations, surrounded by the intoxicating aromas of cloves.",
+    "offered": true,
+    "price": 1200,
+    "type": "Cultural",
+    "tripMonth": "December",
+    "rating": 4.5,
+    "minAge": {
+      "children": 5,
+      "adults": 18
+    },
+    "included": [
+      "Guided tours of Stone Town",
+      "Daily meals",
+      "Accommodation",
+      "Beach access and amenities",
+      "Spice plantation tours"
+    ],
+    "excluded": [
+      "International flight tickets",
+      "Visa fees",
+      "Personal expenses",
+      "Optional tours",
+      "Travel insurance"
+    ],
+    "extraServices": [
+      "Health insurance",
+      "Snorkeling excursion",
+      "Private dining experience"
+    ]
+  },
+  {
+    "popular": false,
+    "id": 11,
+    "days": 9,
+    "locationName": "Kyiv",
+    "country": "Ukraine",
+    "img": "https://i.ibb.co/CJLq3sG/Image-11.png",
+    "description": "Immerse yourself in the heart of Ukraine with a visit to Kyiv, a city where ancient traditions blend seamlessly with modern life. Explore the city's rich history through its magnificent churches and monasteries, architectural marvels that stand as testaments to centuries of faith and resilience. Lose yourself in the vibrant energy of Kyiv's bustling markets, a kaleidoscope of colors, sounds, and flavors. Discover local crafts, indulge in delicious cuisine, and experience the warmth of Ukrainian hospitality. From the grandeur of St. Sophia's Cathedral to the lively atmosphere of Independence Square, Kyiv offers a captivating journey through time and culture.",
+    "offered": true,
+    "price": 1350,
+    "type": "Cultural",
+    "rating": 4.2,
+    "tripMonth": "April",
+    "minAge": {
+      "children":3,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "City tours",
+      "Museum tickets"
+    ],
+    "excluded": [
+      "Airfare",
+      "Personal expenses"
+    ],
+    "extraServices": [
+      "Travel insurance",
+      "Guided tours"
+    ]
+  },
+  {
+    "popular": true,
+    "id": 12,
+    "days": 8,
+    "locationName": "Salzburg",
+    "country": "Austria",
+    "img": "https://i.ibb.co/PhXJ8yN/Image-12.png",
+    "description": "Discover the enchanting city of Salzburg, the birthplace of the legendary Mozart. Immerse yourself in the city’s rich history as you wander through its medieval streets, adorned with stunning baroque architecture. From the grandeur of Salzburg Cathedral to the charm of Mirabell Palace, every corner exudes elegance and history. Beyond the city's architectural wonders, the breathtaking Alpine landscape beckons. Explore the surrounding mountains, offering opportunities for hiking, skiing, and simply taking in the awe-inspiring natural beauty. Salzburg is a harmonious blend of culture, history, and nature, promising an unforgettable experience.",
+    "offered": true,
+    "price": 1400,
+    "type": "Cultural",
+    "rating": 4.7,
+    "tripMonth": "August",
+    "minAge": {
+      "children": 8,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "Guided city tour",
+      "Entry fees to historical sites"
+    ],
+    "excluded": [
+      "Meals",
+      "Airfare"
+    ],
+    "extraServices": [
+      "Health insurance",
+      "Ski equipment rental"
+    ]
+  },
+  {
+    "popular": false,
+    "id": 13,
+    "days": 10,
+    "locationName": "Malé",
+    "country": "Maldives",
+    "img": "https://i.ibb.co/tp8kYxZ/Image-13.png",
+    "description": "Escape to the Maldives, a pristine archipelago of palm-fringed islands nestled in the turquoise waters of the Indian Ocean. Indulge in ultimate relaxation as you unwind in luxurious overwater bungalows, offering breathtaking views of the crystal-clear lagoon. Discover an underwater wonderland teeming with vibrant coral reefs and exotic marine life, perfect for snorkeling and diving enthusiasts. Unwind on powdery white beaches, soak up the warm sun, and let the gentle rhythm of island life rejuvenate your senses. The Maldives is a true tropical paradise, promising an unforgettable escape.",
+    "offered": false,
+    "price": 2000,
+    "type": "Luxury",
+    "rating": 4.9,
+    "tripMonth": "December",
+    "minAge": {
+      "children": 3,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation in overwater bungalow",
+      "Meals",
+      "Snorkeling equipment"
+    ],
+    "excluded": [
+      "International airfare",
+      "Personal expenses"
+    ],
+    "extraServices": [
+      "Spa treatments",
+      "Private boat tours"
+    ]
+  },
+  {
+    "popular": true,
+    "id": 14,
+    "days": 12,
+    "locationName": "Lhasa",
+    "country": "Tibet",
+    "img": "https://i.ibb.co/WGSvmKz/Image-14.png",
+    "description": "Discover the profound essence of Tibet as you explore its sacred monasteries, each a living testament to Buddhism. Marvel at the architectural grandeur of the Potala Palace, a celestial abode perched atop a crimson hill. Immerse yourself in the region's spiritual heart, where ancient traditions and breathtaking landscapes converge. From the serene monasteries to the awe-inspiring Himalayan peaks, Tibet offers an unforgettable experience for the soul.",
+    "offered": true,
+    "price": 1600,
+    "type": "Cultural",
+    "rating": 4.6,
+    "tripMonth": "June",
+    "minAge": {
+      "children": 10,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "Monastery entrance fees",
+      "Cultural guide"
+    ],
+    "excluded": [
+      "Airfare",
+      "Personal insurance"
+    ],
+    "extraServices": [
+      "Altitude acclimatization services",
+      "Cultural performances"
+    ]
+  },
+  {
+    "popular": false,
+    "id": 15,
+    "days": 7,
+    "locationName": "Marrakech",
+    "country": "Morocco",
+    "img": "https://i.ibb.co/XWPGMfF/Image-15.png",
+    "description": "Immerse yourself in the vibrant culture of Marrakech with visits to souks, palaces, and the stunning Atlas Mountains.",
+    "offered": false,
+    "price": 1300,
+    "type": "Cultural",
+    "rating": 4.4,
+    "tripMonth": "February",
+    "minAge": {
+      "children":7,
+      "adults": 19
+    },
+    "included": [
+      "Accommodation",
+      "Guided tours",
+      "Atlas Mountains excursion"
+    ],
+    "excluded": [
+      "Meals",
+      "Flights"
+    ],
+    "extraServices": [
+      "Camel ride experience",
+      "Hammam spa treatments"
+    ]
+  },
+  {
+    "popular": true,
+    "id": 16,
+    "days": 9,
+    "locationName": "Ljubljana",
+    "country": "Slovenia",
+    "img": "https://i.ibb.co/NndJgfx/Image-16.png",
+    "description": "Discover the magic of Ljubljana, where history and modernity coexist in perfect harmony. Lose yourself in the picturesque old town, a labyrinth of charming streets lined with quaint cafes and boutique shops. Stroll along the vibrant Ljubljanica River, adorned with iconic bridges that reflect the city's unique character. Embrace the Slovenian capital's green heart, with lush parks and easy access to the stunning Julian Alps for outdoor enthusiasts. Ljubljana offers a delightful escape for those seeking a blend of culture, nature, and relaxation.",
+    "offered": true,
+    "price": 1250,
+    "type": "Cultural",
+    "rating": 4.3,
+    "tripMonth": "March",
+    "minAge": {
+      "children": 5,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "City tours",
+      "River cruise"
+    ],
+    "excluded": [
+      "Meals",
+      "Airfare"
+    ],
+    "extraServices": [
+      "Bike rental",
+      "Guided walking tours"
+    ]
+  },
+  {
+    "popular": false,
+    "id": 17,
+    "days": 8,
+    "locationName": "Reykjavik",
+    "country": "Iceland",
+    "img": "https://i.ibb.co/6nYT7fQ/Image-17.png",
+    "description": "Embark on an unforgettable adventure through Iceland's dramatic landscapes. Witness the raw power of nature as you explore erupting geysers, cascading waterfalls, and the otherworldly beauty of the Blue Lagoon. Hike through volcanic terrains, surrounded by glaciers and snow-capped mountains. Iceland offers an unparalleled opportunity to connect with the earth's elemental forces and create memories that will last a lifetime.",
+    "offered": true,
+    "price": 1500,
+    "type": "Adventure",
+    "rating": 4.8,
+    "tripMonth": "July",
+    "minAge": {
+      "children": 10,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "Geyser and waterfall tours",
+      "Blue Lagoon entry"
+    ],
+    "excluded": [
+      "Meals",
+      "Flights"
+    ],
+    "extraServices": [
+      "Northern Lights tour",
+      "Glacier hiking"
+    ]
+  },
+  {
+    "popular": true,
+    "id": 18,
+    "days": 10,
+    "locationName": "Yerevan",
+    "country": "Armenia",
+    "img": "https://i.ibb.co/QvpwRKf/Image-18.png",
+    "description": "Discover the soul of Armenia in the ancient city of Yerevan. Immerse yourself in a world of history and culture as you explore historic monasteries, showcasing the country's rich spiritual heritage. Delve into the past at fascinating museums, where artifacts and exhibits bring the city's story to life. And for a breathtaking perspective, gaze upon the majestic Mount Ararat, a symbol of Armenia and a reminder of its enduring spirit.",
+    "offered": false,
+    "price": 1300,
+    "type": "Cultural",
+    "rating": 4.5,
+    "tripMonth": "September",
+    "minAge": {
+      "children": 7,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "Museum tickets",
+      "Monastery tours"
+    ],
+    "excluded": [
+      "Meals",
+      "Personal expenses"
+    ],
+    "extraServices": [
+      "Guided city tours",
+      "Cultural performances"
+    ]
+  },
+  {
+    "popular": true,
+    "id": 19,
+    "days": 12,
+    "locationName": "Tallinn",
+    "country": "Estonia",
+    "img": "https://i.ibb.co/nj68dTS/Image-19.png",
+    "description": "Step back in time as you explore the enchanting city of Tallinn. Discover a perfectly preserved medieval old town, where cobbled streets wind through a labyrinth of historic buildings. Admire the stunning architecture of towering churches and grand fortifications that stand as testaments to Tallinn's rich history. Immerse yourself in the city's vibrant culture as you wander through bustling markets and charming shops. With its breathtaking coastal views and a blend of old-world charm and modern amenities, Tallinn offers an unforgettable experience for every visitor.",
+    "offered": true,
+    "price": 1400,
+    "type": "Cultural",
+    "rating": 4.7,
+    "tripMonth": "January",
+    "minAge": {
+      "children": 6,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "City tours",
+      "Historical site entry"
+    ],
+    "excluded": [
+      "Meals",
+      "Flights"
+    ],
+    "extraServices": [
+      "Local guide services",
+      "Museum passes"
+    ]
+  },
+  {
+    "popular": false,
+    "id": 20,
+    "days": 7,
+    "locationName": "Muscat",
+    "country": "Oman",
+    "img": "https://i.ibb.co/Q6zJtJz/Image-20.png",
+    "description": "Discover the captivating blend of tradition and modernity in Muscat, Oman. Immerse yourself in the rich Omani culture with visits to awe-inspiring mosques, showcasing the country's Islamic heritage. Explore the remnants of the past at historic forts, offering glimpses into Oman's rich history. For a refreshing escape, head to the pristine beaches that dot the coastline, where you can relax under the warm Arabian sun. Muscat offers a perfect balance of cultural exploration and coastal relaxation, making it an unforgettable destination.",
+    "offered": true,
+    "price": 1450,
+    "type": "Cultural",
+    "rating": 4.5,
+    "tripMonth": "June",
+    "minAge": {
+      "children": 8,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "Mosque tours",
+      "Beach access"
+    ],
+    "excluded": [
+      "Meals",
+      "Airfare"
+    ],
+    "extraServices": [
+      "Desert safari",
+      "Traditional Omani dinner"
+    ]
+  },
+  {
+    "popular": true,
+    "id": 21,
+    "days": 8,
+    "locationName": "Helsinki",
+    "country": "Finland",
+    "img": "https://i.ibb.co/dGXnVfZ/Image-21.png",
+    "description": "Discover the dynamic charm of Helsinki, a city where contemporary design meets Nordic nature. Immerse yourself in the city's innovative architecture, exploring iconic landmarks and hidden gems. Wander through vibrant design districts, showcasing Finland's world-renowned creativity. When seeking a tranquil escape, venture to the nearby islands, offering stunning archipelago views and opportunities for relaxation. Helsinki's perfect blend of urban excitement and natural beauty invites you to experience the best of Finnish life.",
+    "offered": true,
+    "price": 1300,
+    "rating": 4.6,
+    "tripMonth": "July",
+    "minAge": {
+      "children": 6,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "City tours",
+      "Archipelago cruise"
+    ],
+    "excluded": [
+      "Meals",
+      "Airfare"
+    ],
+    "extraServices": [
+      "Sauna experience",
+      "Design museum entry"
+    ]
+  },
+  {
+    "popular": true,
+    "id": 22,
+    "days": 10,
+    "locationName": "Dubrovnik",
+    "country": "Croatia",
+    "img": "https://i.ibb.co/5Yxk38x/Image-22.png",
+    "description": "Immerse yourself in the enchanting allure of Dubrovnik, a city where history and natural beauty intertwine. Step back in time as you explore the city's iconic stone walls, a testament to its rich heritage. Discover hidden gems within the old town, from grand palaces to charming squares. When you crave a respite from the city's vibrant energy, the crystal-clear waters of the Adriatic Sea beckon. Unwind on the pristine beaches that surround Dubrovnik, soaking up the sun and indulging in water sports. This coastal paradise offers the perfect balance of history, culture, and natural splendor.",
+    "offered": true,
+    "price": 1450,
+    "rating": 4.7,
+    "tripMonth": "April",
+    "minAge": {
+      "children": 8,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "City tours",
+      "Beach access"
+    ],
+    "excluded": [
+      "Meals",
+      "Flights"
+    ],
+    "extraServices": [
+      "Boat tour",
+      "Historical site entry"
+    ]
+  },
+  {
+    "popular": true,
+    "id": 23,
+    "days": 7,
+    "locationName": "Luang Prabang",
+    "country": "Laos",
+    "img": "https://i.ibb.co/0YtsNJn/Image-23.png",
+    "description": "Experience the tranquil beauty of Luang Prabang with its ancient temples, waterfalls, and river cruises. Discover the timeless allure of Luang Prabang, a UNESCO World Heritage city renowned for its spiritual tranquility and natural beauty. Immerse yourself in the city's rich history and culture as you explore its ancient temples, adorned with intricate carvings and gilded roofs. Embark on a serene river cruise along the Mekong, taking in the breathtaking landscapes and the gentle rhythm of life. For adventure seekers, nearby waterfalls offer a refreshing escape into nature. Let Luang Prabang cast its spell as you unwind and reconnect with yourself amidst its peaceful ambiance.",
+    "offered": true,
+    "price": 1200,
+    "rating": 4.8,
+    "tripMonth": "October",
+    "minAge": {
+      "children": 5,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "Temple visits",
+      "River cruise"
+    ],
+    "excluded": [
+      "Meals",
+      "Personal expenses"
+    ],
+    "extraServices": [
+      "Waterfall tour",
+      "Guided city tour"
+    ]
+  },
+  {
+    "popular": true,
+    "id": 24,
+    "days": 9,
+    "locationName": "Kathmandu",
+    "country": "Nepal",
+    "img": "https://i.ibb.co/F5pfq5P/Image-24.png",
+    "description": "Discover the spiritual heart of Nepal in Kathmandu, where ancient traditions and modern life coexist harmoniously. Wander through a labyrinth of historic temples and stupas, each a testament to the city's rich cultural heritage. From the iconic Swayambhunath Stupa to the sacred Pashupatinath Temple, these architectural marvels offer a glimpse into Nepal's spiritual depth. Venture beyond the city's ancient wonders and embark on a journey to the majestic Himalayas. Trek through breathtaking landscapes, witnessing nature's grandeur unfold before your eyes. Kathmandu invites you to explore its multifaceted charm, where history, spirituality, and natural beauty converge in an unforgettable experience.",
+    "offered": true,
+    "price": 1350,
+    "rating": 4.7,
+    "tripMonth": "June",
+    "minAge": {
+      "children": 7,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "Temple visits",
+      "Mountain trek"
+    ],
+    "excluded": [
+      "Meals",
+      "Flights"
+    ],
+    "extraServices": [
+      "Guided trekking",
+      "Cultural performances"
+    ]
+  },
+  {
+    "popular": true,
+    "id": 25,
+    "days": 12,
+    "locationName": "Minsk",
+    "country": "Belarus",
+    "img": "https://i.ibb.co/b2P0MXS/Image-25.png",
+    "description": "Discover the captivating blend of history and modernity that defines Minsk. Explore the city's rich past through its iconic Soviet architecture, a testament to a bygone era. Immerse yourself in the tranquility of its lush parks, offering a peaceful escape from the urban bustle. Unveil Minsk's historical treasures with visits to its historic sites, where the echoes of the past resonate. Experience the city's vibrant energy as you explore its modern avenues and discover a harmonious fusion of old and new.",
+    "offered": true,
+    "price": 1250,
+    "rating": 4.6,
+    "tripMonth": "December",
+    "minAge": {
+      "children": 6,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "City tours",
+      "Park visits"
+    ],
+    "excluded": [
+      "Meals",
+      "Flights"
+    ],
+    "extraServices": [
+      "Historical site entry",
+      "Local guide"
+    ]
+  },
+  {
+    "popular": true,
+    "id": 26,
+    "days": 7,
+    "locationName": "Tbilisi",
+    "country": "Georgia",
+    "img": "https://i.ibb.co/7WfpS7N/Image-26.png",
+    "description": "Tbilisi, Georgia's captivating capital, invites you to immerse yourself in a unique blend of history and modernity. Wander through the charming old town, where ancient architecture meets vibrant life. Unwind in the city's famous sulfur baths, a centuries-old tradition offering relaxation and rejuvenation. Ascend to the heights for breathtaking panoramic views of the city and the majestic Caucasus Mountains. Tbilisi promises an unforgettable experience, where the past and present harmoniously coexist.",
+    "offered": true,
+    "price": 1300,
+    "rating": 4.8,
+    "tripMonth": "April",
+    "minAge": {
+      "children": 5,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "City tours",
+      "Sulfur bath experience"
+    ],
+    "excluded": [
+      "Meals",
+      "Airfare"
+    ],
+    "extraServices": [
+      "Guided city tour",
+      "Mountain excursion"
+    ]
+  },
+  {
+    "popular": true,
+    "id": 27,
+    "days": 9,
+    "locationName": "Vilnius",
+    "country": "Lithuania",
+    "img": "https://i.ibb.co/m8C2ySj/image-27.png",
+    "description": "Discover the enchanting allure of Vilnius, where history and culture intertwine in a harmonious symphony. Immerse yourself in the city's Baroque splendor as you wander through its historic old town, a UNESCO World Heritage site. Admire the intricate facades of its churches, adorned with ornate details and towering spires. Beyond the architectural marvels, Vilnius boasts a vibrant cultural scene. Explore bustling markets, savor delectable cuisine, and experience the city's lively nightlife. Let the warm hospitality of the Lithuanian people welcome you as you uncover the hidden gems of this captivating city.",
+    "offered": true,
+    "price": 1400,
+    "rating": 4.6,
+    "tripMonth": "September",
+    "minAge": {
+      "children": 7,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "City tours",
+      "Market visits"
+    ],
+    "excluded": [
+      "Meals",
+      "Personal expenses"
+    ],
+    "extraServices": [
+      "Cultural performances",
+      "Museum entry"
+    ]
+  },
+  {
+    "popular": true,
+    "id": 28,
+    "days": 10,
+    "locationName": "Amman",
+    "country": "Jordan",
+    "img": "https://i.ibb.co/3FqNbbS/Image-28.png",
+    "description": "Discover the captivating allure of Amman, where ancient history seamlessly intertwines with modern vibrancy. Explore the city’s rich past through its well-preserved Roman ruins, including the majestic Citadel and the sprawling Roman Theatre. Immerse yourself in the bustling atmosphere of local markets, where you can haggle for unique souvenirs and savor authentic Jordanian cuisine. Beyond the city's historical treasures, Amman offers a gateway to natural wonders. Embark on an unforgettable journey to the Dead Sea, where you can float effortlessly on its buoyant waters and indulge in rejuvenating mineral baths. Experience the ultimate contrast between the city's ancient heritage and the modern world in this dynamic metropolis.",
+    "offered": true,
+    "price": 1350,
+    "rating": 4.7,
+    "tripMonth": "June",
+    "minAge": {
+      "children": 8,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "Historical site visits",
+      "Dead Sea access"
+    ],
+    "excluded": [
+      "Meals",
+      "Flights"
+    ],
+    "extraServices": [
+      "Local market tour",
+      "Guided Dead Sea experience"
+    ]
+  },
+  {
+    "popular": true,
+    "id": 29,
+    "days": 8,
+    "locationName": "Belgrade",
+    "country": "Serbia",
+    "img": "https://i.ibb.co/cXCfpZJ/belberde.jpg",
+    "description": "Discover the vibrant energy of Belgrade, where history and modernity coexist in perfect harmony. Immerse yourself in the city's rich past by exploring iconic landmarks like the Kalemegdan Fortress, a majestic symbol of its enduring spirit. Experience the bohemian charm of Skadarlija, a district brimming with traditional taverns and live music. As the sun sets, Belgrade transforms into a dynamic nightlife hub, offering a wide range of entertainment options. From trendy rooftop bars to pulsating clubs, the city caters to every taste. Don't miss the opportunity to stroll along the banks of the Danube and Sava rivers, taking in the stunning city skyline. Belgrade promises an unforgettable adventure for every traveler.",
+    "offered": true,
+    "price": 1200,
+    "rating": 4.8,
+    "tripMonth": "February",
+    "minAge": {
+      "children": 6,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "City tours",
+      "Nightlife experience"
+    ],
+    "excluded": [
+      "Meals",
+      "Flights"
+    ],
+    "extraServices": [
+      "Local guide",
+      "River cruise"
+    ]
+  },
+  {
+    "popular": true,
+    "id": 30,
+    "days": 7,
+    "locationName": "Valletta",
+    "country": "Malta",
+    "img": "https://i.ibb.co/KDg8t9d/image-30.png",
+    "description": "Discover the grandeur of Valletta, a UNESCO World Heritage city renowned for its fortified walls and opulent Baroque architecture. Wander through its historic streets, lined with majestic buildings that whisper tales of Malta's rich past. Immerse yourself in the city's vibrant cultural scene, exploring its numerous museums, art galleries, and charming cafes. With breathtaking harbor views and a captivating atmosphere, Valletta offers an unforgettable journey through time.",
+    "offered": true,
+    "price": 1250,
+    "rating": 4.7,
+    "tripMonth": "October",
+    "minAge": {
+      "children": 5,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "City tours",
+      "Museum visits"
+    ],
+    "excluded": [
+      "Meals",
+      "Airfare"
+    ],
+    "extraServices": [
+      "Harbor cruise",
+      "Cultural tours"
+    ]
+  },
+  {
+    "popular": true,
+    "offered": true,
+    "id": 31,
+    "days": 10,
+    "locationName": "Asheville",
+    "country": "USA",
+    "img": "https://i.ibb.co/sCZYJJZ/Ashvelle.jpg",
+    "description": "Discover the allure of Asheville, a city nestled amidst the breathtaking Blue Ridge Mountains. Immerse yourself in the region's natural beauty with hikes and scenic drives, or simply relax and soak in the mountain air. Explore the grandeur of the Biltmore Estate, a magnificent mansion that offers a glimpse into the Gilded Age. Asheville's vibrant arts scene adds a touch of bohemian charm to the city. Discover local galleries, artisan shops, and live music venues. Whether you're an outdoor enthusiast, history buff, or art lover, Asheville offers a perfect blend of nature, culture, and relaxation.",
+    "price": 1400,
+    "type": "Cultural",
+    "rating": 4.5,
+    "tripMonth": "October",
+    "minAge": {
+      "children": 7,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "Biltmore Estate entry",
+      "City tours"
+    ],
+    "excluded": [
+      "Meals",
+      "Flights"
+    ],
+    "extraServices": [
+      "Guided mountain hike",
+      "Art gallery tours"
+    ]
+  },
+  {
+    "popular": true,
+    "offered": false,
+    "id": 32,
+    "days": 9,
+    "locationName": "Sofia",
+    "country": "Bulgaria",
+    "img": "https://i.ibb.co/N3w3n4m/sofia.jpg",
+    "description": "Discover the enchanting allure of Sofia, where ancient history seamlessly intertwines with modern life. Explore the city's spiritual heart through its magnificent Orthodox churches, adorned with intricate mosaics and icons. Immerse yourself in the vibrant atmosphere of bustling markets, offering a kaleidoscope of colors, flavors, and local crafts. For a breath of fresh air, venture beyond the city limits to the nearby mountains, where breathtaking landscapes and outdoor adventures await. Sofia invites you to experience a harmonious blend of culture, history, and nature, leaving you with unforgettable memories.",
+    "price": 1300,
+    "type": "Cultural",
+    "rating": 4.7,
+    "tripMonth": "April",
+    "minAge": {
+      "children": 8,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "Church visits",
+      "Market tours"
+    ],
+    "excluded": [
+      "Meals",
+      "Airfare"
+    ],
+    "extraServices": [
+      "Mountain excursion",
+      "Local guide"
+    ]
+  },
+  {
+    "popular": false,
+    "offered": true,
+    "id": 33,
+    "days": 7,
+    "locationName": "Riga",
+    "country": "Latvia",
+    "img": "https://i.ibb.co/4YfY495/riga.jpg",
+    "description": "Discover the enchanting allure of Riga, where history and modernity coexist in perfect harmony. Immerse yourself in the city's captivating Art Nouveau architecture, a testament to its artistic heritage. Wander through the charming medieval old town, a labyrinth of cobblestone streets lined with historic buildings. Experience the vibrant energy of Riga's cultural scene, with its bustling markets, lively cafes, and diverse artistic expression. Let Riga enchant you with its unique blend of old-world charm and contemporary flair.",
+    "price": 1350,
+    "type": "Cultural",
+    "rating": 4.6,
+    "tripMonth": "January",
+    "minAge": {
+      "children": 6,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "Art Nouveau tours",
+      "Old town exploration"
+    ],
+    "excluded": [
+      "Meals",
+      "Flights"
+    ],
+    "extraServices": [
+      "Local guided tour",
+      "Museum entry"
+    ]
+  },
+  {
+    "popular": true,
+    "offered": true,
+    "id": 34,
+    "days": 12,
+    "locationName": "Hobart",
+    "country": "Australia",
+    "img": "https://i.ibb.co/TvcLs3H/Hobart.jpg",
+    "description": "Tasmania, a pristine island off the coast of Australia, invites you to immerse yourself in a world of natural wonders and rich history. Explore breathtaking landscapes that range from rugged mountains to pristine beaches. Hike through ancient rainforests, where towering trees and cascading waterfalls create a magical atmosphere. Encounter unique wildlife, including the iconic Tasmanian devil, as you venture into the island's diverse ecosystems. Delve into Tasmania's past by visiting historic sites and charming towns, offering a glimpse into the island's captivating heritage. With its unspoiled beauty and warm hospitality, Tasmania promises an unforgettable adventure for every traveler.",
+    "price": 1600,
+    "type": "Scenic",
+    "rating": 4.8,
+    "tripMonth": "September",
+    "minAge": {
+      "children": 10,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "Rainforest hikes",
+      "Wildlife tours"
+    ],
+    "excluded": [
+      "Meals",
+      "Airfare"
+    ],
+    "extraServices": [
+      "Guided wildlife safari",
+      "Historical site visits"
+    ]
+  },
+  {
+    "popular": false,
+    "offered": true,
+    "id": 35,
+    "days": 10,
+    "locationName": "Fez",
+    "country": "Morocco",
+    "img": "https://i.ibb.co/VDBY3zh/fez.jpg",
+    "description": "Step back in time as you explore the enchanting city of Fez. Lose yourself in the labyrinthine alleys of the ancient medina, where centuries-old traditions still thrive. Discover the architectural marvels of the city's madrasas, adorned with intricate carvings and ornate tilework. Immerse yourself in the vibrant tapestry of the souks, where the sights, sounds, and aromas create a sensory overload. From the skilled artisans crafting leather goods to the spice merchants offering a kaleidoscope of flavors, Fez is a treasure trove waiting to be explored. Unveil the city's rich history as you wander through its historic sites, each corner revealing a story of the past. Experience the true essence of Morocco in Fez, where the spirit of tradition lives on in every corner.",
+    "price": 1350,
+    "type": "Cultural",
+    "rating": 4.7,
+    "tripMonth": "June",
+    "minAge": {
+      "children": 8,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "Medina exploration",
+      "Madrasas visits"
+    ],
+    "excluded": [
+      "Meals",
+      "Flights"
+    ],
+    "extraServices": [
+      "Guided medina tour",
+      "Crafts workshop"
+    ]
+  },
+  {
+    "popular": true,
+    "offered": false,
+    "id": 36,
+    "days": 8,
+    "locationName": "Montevideo",
+    "country": "Uruguay",
+    "img": "https://i.ibb.co/VqnSPnj/uruguay.jpg",
+    "description": "Discover the allure of Montevideo, Uruguay's vibrant capital. Immerse yourself in the city's rich history as you stroll through its historic neighborhoods, where colonial architecture stands as a testament to the past. Enjoy leisurely walks along the picturesque beachside promenades, basking in the sun and feeling the gentle ocean breeze. Experience the city's dynamic cultural scene through its diverse art galleries, lively music venues, and bustling markets. Montevideo offers a perfect balance of relaxation and excitement, making it an ideal destination for travelers seeking an authentic South American experience.",
+    "price": 1400,
+    "type": "Cultural",
+    "rating": 4.4,
+    "tripMonth": "March",
+    "minAge": {
+      "children": 8,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "City tours",
+      "Beach access"
+    ],
+    "excluded": [
+      "Meals",
+      "Flights"
+    ],
+    "extraServices": [
+      "Guided city tour",
+      "Cultural events tickets"
+    ]
+  },
+  {
+    "popular": false,
+    "offered": true,
+    "id": 37,
+    "days": 7,
+    "locationName": "Addis Ababa",
+    "country": "Ethiopia",
+    "img": "https://i.ibb.co/5r9SdLM/ethopia.jpg",
+    "description": "Explore the cultural and historical richness of Addis Ababa with visits to museums, markets, and ancient churches. Immerse yourself in the heart of Ethiopia with a visit to Addis Ababa, a city where ancient traditions intertwine with modern vibrancy. Explore its rich history through captivating museums showcasing the nation's heritage. Wander through bustling markets, a kaleidoscope of colors and sounds, offering a glimpse into daily life. Discover the city's spiritual core by visiting historic churches, architectural marvels that stand as testaments to Ethiopia's faith. Addis Ababa invites you to embark on a journey through time, culture, and the soul of a nation.",
+    "price": 1250,
+    "type": "Cultural",
+    "rating": 4.6,
+    "tripMonth": "March",
+    "minAge": {
+      "children": 8,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "Museum entries",
+      "Market tours"
+    ],
+    "excluded": [
+      "Meals",
+      "Airfare"
+    ],
+    "extraServices": [
+      "Historical site tour",
+      "Local guide"
+    ]
+  },
+  {
+    "popular": true,
+    "offered": true,
+    "id": 38,
+    "days": 9,
+    "locationName": "San Salvador",
+    "country": "El Salvador",
+    "img": "https://i.ibb.co/R0h8jyW/salvador.jpg",
+    "description": "Embark on an unforgettable journey through El Salvador's captivating capital, San Salvador. Immerse yourself in the country's rich history and culture as you explore ancient ruins and vibrant markets. Marvel at the awe-inspiring beauty of towering volcanoes, a testament to the region's geological wonders. Unwind by the serene shores of picturesque lakes, offering a tranquil escape from the city's energy. San Salvador invites you to experience the perfect blend of adventure, history, and natural splendor.",
+    "price": 1300,
+    "type": "Cultural",
+    "rating": 4.5,
+    "tripMonth": "June",
+    "minAge": {
+      "children": 8,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "Ruins visits",
+      "Lake access"
+    ],
+    "excluded": [
+      "Meals",
+      "Flights"
+    ],
+    "extraServices": [
+      "Volcano tour",
+      "Local crafts workshop"
+    ]
+  },
+  {
+    "popular": false,
+    "offered": true,
+    "id": 39,
+    "days": 10,
+    "locationName": "Sarajevo",
+    "country": "Bosnia and Herzegovina",
+    "img": "https://i.ibb.co/fGdGFNs/bosnia.jpg",
+    "description": "Sarajevo, a city where East meets West, offers a unique tapestry of history, culture, and natural beauty. Explore the city's rich heritage as you visit its iconic mosques, standing as testaments to its Islamic past. Immerse yourself in the spiritual ambiance of its historic churches, reflecting the city's diverse religious landscape. Beyond the city's cultural treasures, discover the breathtaking beauty of the surrounding mountains. Embark on outdoor adventures, hike through lush forests, and enjoy panoramic views of the city below. Sarajevo invites you to experience a harmonious blend of tradition and modernity, making it a truly unforgettable destination.",
+    "price": 1350,
+    "type": "Cultural",
+    "rating": 4.8,
+    "tripMonth": "October",
+    "minAge": {
+      "children": 8,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "City tours",
+      "Mountain hikes"
+    ],
+    "excluded": [
+      "Meals",
+      "Flights"
+    ],
+    "extraServices": [
+      "Guided mosque tour",
+      "Mountain adventure"
+    ]
+  },
+  {
+    "popular": true,
+    "offered": true,
+    "id": 40,
+    "days": 7,
+    "locationName": "Cairo",
+    "country": "Egypt",
+    "img": "https://i.ibb.co/fD7JZQ8/cairo.jpg",
+    "description": "Embark on an unforgettable journey through time as you explore the timeless wonders of Cairo. Stand in awe before the colossal Pyramids of Giza, an iconic testament to human ingenuity. Encounter the enigmatic Sphinx, a guardian of ancient secrets, and delve into the depths of Egyptian history at the treasure-trove of artifacts housed within the Egyptian Museum. Let Cairo transport you to a world of pharaohs, hieroglyphs, and the enduring legacy of one of the world's greatest civilizations.",
+    "price": 1250,
+    "type": "Cultural",
+    "rating": 4.6,
+    "tripMonth": "April",
+    "minAge": {
+      "children": 10,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "Pyramids tour",
+      "Museum entry"
+    ],
+    "excluded": [
+      "Meals",
+      "Airfare"
+    ],
+    "extraServices": [
+      "Guided tour of pyramids",
+      "Historic site visit"
+    ]
+  },
+  {
+    "popular": true,
+    "offered": true,
+    "id": 41,
+    "days": 8,
+    "locationName": "Muscat",
+    "country": "Oman",
+    "img": "https://i.ibb.co/vL0D2z4/muscat.jpg",
+    "description": "Immerse yourself in the enchanting world of Muscat, where ancient traditions blend seamlessly with modern luxury. Marvel at the architectural grandeur of its grand mosques, each a testament to Islamic artistry. Explore the fortified walls of historic forts, offering glimpses into the city's rich past. Beyond the cultural treasures, Muscat boasts pristine beaches where you can unwind and soak up the sun. Indulge in water sports, or simply relax as you admire the breathtaking coastal scenery. Whether you seek adventure, relaxation, or cultural immersion, Muscat promises an unforgettable experience.",
+    "price": 1450,
+    "type": "Cultural",
+    "rating": 4.7,
+    "tripMonth": "November",
+    "minAge": {
+      "children": 10,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "Mosque visits",
+      "Beach access"
+    ],
+    "excluded": [
+      "Meals",
+      "Airfare"
+    ],
+    "extraServices": [
+      "Beach activities",
+      "Historical site tours"
+    ]
+  },
+  {
+    "popular": true,
+    "id": 42,
+    "days": 12,
+    "locationName": "Thimphu",
+    "country": "Bhutan",
+    "img": "https://i.ibb.co/M5PWh7T/bhutan.jpg",
+    "description": "Embark on a transformative journey to Bhutan, a land steeped in spirituality and natural wonder. Immerse yourself in the kingdom's rich Buddhist heritage as you explore ancient monasteries perched on dramatic cliffs and serene temples nestled amidst breathtaking landscapes. Witness the harmonious coexistence of nature and culture as you traverse through the majestic Himalayas. Trek through lush forests, encounter diverse wildlife, and experience the tranquility of Bhutan's pristine environment. From the iconic Tiger's Nest Monastery to the ancient fortresses, every corner of Bhutan offers a unique perspective into this Himalayan gem. Let Bhutan captivate your soul as you discover a land where happiness is a way of life.",
+    "price": 1500,
+    "type": "Cultural",
+    "rating": 4.8,
+    "tripMonth": "February",
+    "minAge": {
+      "children": 12,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "Monastery tours",
+      "Hiking excursions"
+    ],
+    "excluded": [
+      "Meals",
+      "Flights"
+    ],
+    "extraServices": [
+      "Guide for monastery tours",
+      "Cultural workshops"
+    ]
+  },
+  {
+    "popular": true,
+    "id": 43,
+    "days": 10,
+    "locationName": "Windhoek",
+    "country": "Namibia",
+    "img": "https://i.ibb.co/0C7JTZ5/namibia.jpg",
+    "description": "Discover Namibia, a land of contrasts where vast deserts meet lush landscapes. Explore the awe-inspiring Namib Desert, home to towering sand dunes and unique wildlife. Venture into the heart of the country to witness the extraordinary diversity of wildlife in national parks like Etosha and Sossusvlei. Immerse yourself in the rich cultural heritage of Namibia by visiting traditional Himba villages and learning about their ancient customs. From the rugged coastlines to the vast savannas, Namibia offers an unforgettable journey for adventure seekers and nature enthusiasts alike.",
+    "price": 1350,
+    "type": "Adventure",
+    "rating": 4.5,
+    "tripMonth": "October",
+    "minAge": {
+      "children": 10,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "Desert excursions",
+      "Wildlife safaris"
+    ],
+    "excluded": [
+      "Meals",
+      "Flights"
+    ],
+    "extraServices": [
+      "Guided desert tour",
+      "Cultural village visit"
+    ]
+  },
+  {
+    "popular": true,
+    "id": 44,
+    "days": 9,
+    "locationName": "Dakar",
+    "country": "Senegal",
+    "img": "https://i.ibb.co/7gRYnHv/senegal.jpg",
+    "description": "Immerse yourself in the vibrant culture of Dakar with its lively markets, music scene, and historic sites. Experience the pulsating energy of Dakar, where ancient traditions blend seamlessly with modern rhythms. Immerse yourself in the city's vibrant culture through its bustling markets, a kaleidoscope of colors and scents. Let the infectious beats of Senegalese music transport you as you sway to the rhythms of the moment. Delve into Dakar's rich history by exploring its historic sites, each stone whispering tales of the city's past. From the iconic African Renaissance Monument to the serene beauty of Île de Gorée, Dakar offers a captivating journey through time. Prepare to be captivated by the warmth and hospitality of the Senegalese people as you embrace this vibrant African metropolis.",
+    "price": 1400,
+    "type": "Cultural",
+    "rating": 4.6,
+    "tripMonth": "November",
+    "minAge": {
+      "children": 8,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "Market tours",
+      "Historic site visits"
+    ],
+    "excluded": [
+      "Meals",
+      "Flights"
+    ],
+    "extraServices": [
+      "Music and dance experience",
+      "Island excursion"
+    ]
+  },
+  {
+    "popular": true,
+    "id": 45,
+    "days": 7,
+    "locationName": "Phnom Penh",
+    "country": "Cambodia",
+    "img": "https://i.ibb.co/qYh9XnP/cambodia.jpg",
+    "description": "Immerse yourself in the heart of Cambodia with a visit to Phnom Penh, a city where ancient history and modern life intertwine. Discover the grandeur of the Royal Palace, a breathtaking architectural masterpiece that offers a glimpse into the kingdom's regal past. Explore the city's vibrant soul through its bustling markets, a kaleidoscope of colors, scents, and local treasures. Delve into the depths of Cambodia's history at renowned museums, where artifacts and exhibits narrate the country's captivating story. Let Phnom Penh enchant you with its unique blend of tradition and modernity.",
+    "price": 1300,
+    "type": "Cultural",
+    "rating": 4.7,
+    "tripMonth": "March",
+    "minAge": {
+      "children": 8,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "Royal Palace tour",
+      "Market visits"
+    ],
+    "excluded": [
+      "Meals",
+      "Flights"
+    ],
+    "extraServices": [
+      "Guided museum tour",
+      "Cultural performance"
+    ]
+  },
+  {
+    "popular": true,
+    "id": 46,
+    "days": 10,
+    "locationName": "Maputo",
+    "country": "Mozambique",
+    "img": "https://i.ibb.co/y0qBtr1/Mozambique.jpg",
+    "description": "Discover the allure of Maputo, Mozambique's captivating capital. Immerse yourself in a city where Portuguese colonial architecture stands as a testament to its rich history. Explore its bustling markets, a kaleidoscope of colors and sounds, offering a taste of local life. Relax on pristine beaches, basking in the warm African sun, or venture into the city's vibrant cultural scene. Maputo is a harmonious blend of old-world charm and modern energy, inviting you to experience the true spirit of Mozambique.",
+    "price": 1350,
+    "type": "Scenic",
+    "rating": 4.4,
+    "tripMonth": "April",
+    "minAge": {
+      "children": 8,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "Market tours",
+      "Beach access"
+    ],
+    "excluded": [
+      "Meals",
+      "Flights"
+    ],
+    "extraServices": [
+      "Beach activities",
+      "Cultural tours"
+    ]
+  },
+  {
+    "popular": true,
+    "id": 47,
+    "days": 8,
+    "locationName": "Hanoi",
+    "country": "Vietnam",
+    "img": "https://i.ibb.co/5K8JHYJ/vietnam.jpg",
+    "description": "Immerse yourself in the captivating allure of Hanoi, where ancient traditions seamlessly blend with modern vibrancy. Explore the city's rich history through its majestic temples, each a testament to Vietnam's spiritual heritage. Wander through bustling markets, a kaleidoscope of colors and scents, offering a glimpse into daily life. Hanoi's charm is further enhanced by its serene lakes, providing peaceful retreats amidst the urban landscape. Discover the city's colonial past reflected in its elegant French architecture, a harmonious contrast to the traditional Vietnamese style. Experience the warmth and hospitality of the local people as you embark on a memorable journey through Hanoi's captivating tapestry.",
+    "price": 1200,
+    "type": "Cultural",
+    "rating": 4.6,
+    "tripMonth": "July",
+    "minAge": {
+      "children": 8,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "Temple visits",
+      "Market tours"
+    ],
+    "excluded": [
+      "Meals",
+      "Flights"
+    ],
+    "extraServices": [
+      "Guided city tour",
+      "Cultural performance"
+    ]
+  },
+  {
+    "popular": false,
+    "offered": true,
+    "id": 48,
+    "days": 7,
+    "locationName": "Bridgetown",
+    "country": "Barbados",
+    "img": "https://i.ibb.co/Fg36Wfs/barbados.jpg",
+    "description": "Escape to the idyllic island of Barbados, where pristine white-sand beaches meet the crystal-clear turquoise waters of the Caribbean Sea. Immerse yourself in a world of relaxation as you bask in the warm sunshine and gentle ocean breeze. Discover the vibrant marine life by snorkeling or diving amidst colorful coral reefs. For adventure seekers, Barbados offers a range of water sports, from surfing and windsurfing to sailing and fishing. Beyond the stunning beaches, experience the island's rich culture through its lively music, delicious cuisine, and warm hospitality. Let the infectious rhythms of calypso and reggae fill your days as you savor the flavors of the Caribbean.",
+    "price": 1500,
+    "type": "Scenic",
+    "rating": 4.7,
+    "tripMonth": "August",
+    "minAge": {
+      "children": 6,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "Beach access",
+      "Water sports"
+    ],
+    "excluded": [
+      "Meals",
+      "Flights"
+    ],
+    "extraServices": [
+      "Snorkeling gear rental",
+      "Island tour"
+    ]
+  },
+  {
+    "popular": true,
+    "offered": false,
+    "id": 49,
+    "days": 9,
+    "locationName": "Gaborone",
+    "country": "Botswana",
+    "img": "https://i.ibb.co/v4wwjSV/botswana.jpg",
+    "description": "Embark on an unforgettable adventure through Botswana, a land renowned for its breathtaking natural beauty and abundant wildlife. Explore vast national parks and game reserves, where iconic animals roam freely across the savanna. Witness the magic of the Okavango Delta, a UNESCO World Heritage Site teeming with life, or traverse the vast expanse of the Kalahari Desert. Beyond its wildlife, Botswana offers a rich cultural experience. Immerse yourself in the traditions of the local people and gain a deeper appreciation for their harmonious coexistence with nature. From the vibrant markets to captivating art and music, Botswana promises a journey that will leave you inspired and rejuvenated.",
+    "price": 1350,
+    "type": "Adventure",
+    "rating": 4.8,
+    "tripMonth": "June",
+    "minAge": {
+      "children": 12,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "Game drives",
+      "Delta excursion"
+    ],
+    "excluded": [
+      "Meals",
+      "Flights"
+    ],
+    "extraServices": [
+      "Wildlife photography tour",
+      "Cultural experience"
+    ]
+  },
+  {
+    "popular": false,
+    "offered": true,
+    "id": 50,
+    "days": 10,
+    "locationName": "Kingston",
+    "country": "Jamaica",
+    "img": "https://i.ibb.co/TYVP2pY/jamaica.jpg",
+    "description": "Discover the vibrant spirit of Jamaica, where lush rainforests meet pristine beaches. Immerse yourself in the island's rich culture, from lively reggae music to warm hospitality. Explore historic sites that echo with tales of the past, or embark on thrilling adventures in the rugged mountains. Unwind on powdery white sands, soak up the sun, and savor the flavors of Jamaican cuisine. Let the island's natural beauty and infectious energy captivate your senses as you create unforgettable memories.",
+    "price": 1400,
+    "type": "Scenic",
+    "rating": 4.5,
+    "tripMonth": "September",
+    "minAge": {
+      "children": 6,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "Beach access",
+      "Historic site visits"
+    ],
+    "excluded": [
+      "Meals",
+      "Flights"
+    ],
+    "extraServices": [
+      "Island tour",
+      "Cultural performance"
+    ]
+  },
+  {
+    "popular": true,
+    "id": 51,
+    "days": 12,
+    "locationName": "Antananarivo",
+    "country": "Madagascar",
+    "img": "https://i.ibb.co/vqB2Zqz/madagascar.jpg",
+    "description": "Embark on an extraordinary adventure to Madagascar, an island brimming with unique landscapes and captivating wildlife. Immerse yourself in the heart of lush rainforests, home to an array of endemic species, including the iconic lemurs. Unwind on pristine beaches, where turquoise waters invite you to relax and soak up the sun. Beyond its natural wonders, Madagascar offers a rich cultural tapestry. Explore ancient villages, discover local traditions, and gain insights into the island's fascinating history. From the towering baobabs of the west coast to the vibrant coral reefs in the Indian Ocean, Madagascar promises an unforgettable journey for every traveler.",
+    "price": 1600,
+    "type": "Cultural",
+    "rating": 4.6,
+    "tripMonth": "January",
+    "minAge": {
+      "children": 12,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "Rainforest tours",
+      "Beach access"
+    ],
+    "excluded": [
+      "Meals",
+      "Flights"
+    ],
+    "extraServices": [
+      "Guided village tour",
+      "Wildlife spotting excursions"
+    ]
+  },
+  {
+    "popular": false,
+    "id": 52,
+    "days": 9,
+    "locationName": "Lilongwe",
+    "country": "Malawi",
+    "img": "https://i.ibb.co/09XS1BY/malawi.jpg",
+    "description": "Immerse yourself in the heart of Africa as you explore Malawi's breathtaking landscapes and rich cultural heritage. From the crystal-clear waters of Lake Malawi, teeming with vibrant fish, to the sprawling savannahs teeming with wildlife, nature enthusiasts will find paradise here. Venture into Malawi's national parks for unforgettable encounters with elephants, lions, and other majestic creatures. Uncover the country's captivating history through visits to historic sites and villages, gaining insights into the warm and welcoming spirit of the Malawian people. Whether you seek adventure, relaxation, or cultural immersion, Malawi offers a truly unforgettable experience.",
+    "price": 1300,
+    "type": "Adventure",
+    "rating": 4.5,
+    "tripMonth": "March",
+    "minAge": {
+      "children": 10,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "National park safaris",
+      "Lake excursions"
+    ],
+    "excluded": [
+      "Meals",
+      "Flights"
+    ],
+    "extraServices": [
+      "Wildlife guide",
+      "Cultural village visit"
+    ]
+  },
+  {
+    "popular": true,
+    "id": 53,
+    "days": 8,
+    "locationName": "Port Louis",
+    "country": "Mauritius",
+    "img": "https://i.ibb.co/SR3mFpv/mauritius.jpg",
+    "description": "Escape to the tropical haven of Mauritius, where pristine beaches kiss the turquoise waters of the Indian Ocean. Immerse yourself in the island's vibrant culture, a captivating blend of African, Indian, and European influences. Explore lush rainforests, encounter exotic marine life through snorkeling or diving, and indulge in world-class relaxation. Let the gentle rhythm of island life rejuvenate your senses as you discover the true meaning of paradise in Mauritius.",
+    "price": 1500,
+    "type": "Scenic",
+    "rating": 4.7,
+    "tripMonth": "October",
+    "minAge": {
+      "children": 6,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "Beach access",
+      "Snorkeling"
+    ],
+    "excluded": [
+      "Meals",
+      "Flights"
+    ],
+    "extraServices": [
+      "Guided rainforest tour",
+      "Cultural experience"
+    ]
+  },
+  {
+    "popular": true,
+    "id": 54,
+    "days": 7,
+    "locationName": "Paramaribo",
+    "country": "Suriname",
+    "img": "https://i.ibb.co/xJ2zRnz/suriname.jpg",
+    "description": "Discover the vibrant tapestry of Paramaribo, where diverse cultures converge to create a unique and captivating city. Immerse yourself in the city's rich history as you explore its stunning colonial architecture, a testament to its Dutch heritage. Stroll along the picturesque Suriname River, absorbing the city's laid-back atmosphere. Explore the bustling markets, where a kaleidoscope of colors, scents, and flavors awaits. Paramaribo offers a truly unforgettable experience, inviting you to embrace its multicultural spirit and discover the heart of Suriname.",
+    "price": 1250,
+    "type": "Cultural",
+    "rating": 4.4,
+    "tripMonth": "July",
+    "minAge": {
+      "children": 8,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "Colonial architecture tour",
+      "River cruise"
+    ],
+    "excluded": [
+      "Meals",
+      "Flights"
+    ],
+    "extraServices": [
+      "Guided market tour",
+      "Cultural performance"
+    ]
+  },
+  {
+    "popular": false,
+    "id": 55,
+    "days": 10,
+    "locationName": "Nouakchott",
+    "country": "Mauritania",
+    "img": "https://i.ibb.co/m4B6StB/Mauritania.jpg",
+    "description": "Embark on an extraordinary adventure through Mauritania, a land of captivating contrasts. From the vast expanse of the Sahara Desert to the pristine Atlantic coastline, this West African nation offers a unique and unforgettable experience. Discover the timeless allure of ancient ruins, remnants of powerful empires that once thrived in this region. Immerse yourself in the rich Berber culture, encountering warm hospitality and traditions passed down through generations. Whether you seek thrilling desert safaris, relaxation on secluded beaches, or a deep dive into Mauritania's history, this extraordinary country promises an adventure that will leave you with lasting memories.",
+    "price": 1350,
+    "type": "Adventure",
+    "rating": 4.6,
+    "tripMonth": "May",
+    "minAge": {
+      "children": 12,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "Desert safaris",
+      "Beach relaxation"
+    ],
+    "excluded": [
+      "Meals",
+      "Flights"
+    ],
+    "extraServices": [
+      "Desert camp experience",
+      "Historical site tour"
+    ]
+  },
+  {
+    "popular": true,
+    "id": 56,
+    "days": 9,
+    "locationName": "Port Moresby",
+    "country": "Papua New Guinea",
+    "img": "https://i.ibb.co/d6D53GZ/Papua-New-Guinea.jpg",
+    "description": "Immerse yourself in the heart of the Pacific with a journey through Papua New Guinea. This extraordinary land offers a unique blend of rich cultural heritage and breathtaking natural beauty. Encounter diverse indigenous tribes, each with their own captivating customs and traditions. Explore lush rainforests teeming with exotic flora and fauna, or bask in the sun on pristine beaches. Trek through rugged landscapes, discovering hidden waterfalls and cascading rivers. Papua New Guinea is a paradise for adventure seekers and culture enthusiasts alike. Unveil the secrets of this island nation and create unforgettable memories.",
+    "price": 1500,
+    "type": "Cultural",
+    "rating": 4.8,
+    "tripMonth": "May",
+    "minAge": {
+      "children": 10,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "Tribal encounters",
+      "Rainforest exploration"
+    ],
+    "excluded": [
+      "Meals",
+      "Flights"
+    ],
+    "extraServices": [
+      "Guided cultural tour",
+      "Wildlife photography"
+    ]
+  },
+  {
+    "popular": true,
+    "id": 57,
+    "days": 8,
+    "locationName": "Vientiane",
+    "country": "Laos",
+    "img": "https://i.ibb.co/RHnz6ZN/laos.jpg",
+    "description": "Discover the serene charm of Vientiane, Laos, where ancient traditions blend harmoniously with modern life. Explore the city's spiritual heart through its stunning Buddhist temples, adorned with intricate golden spires. Immerse yourself in the French colonial architecture, a testament to the city's rich history. Relax along the banks of the Mekong River, soaking in the tranquil atmosphere as the sun paints the sky with hues of orange and pink. Vientiane invites you to slow down, unwind, and experience the true essence of Laotian hospitality.",
+    "price": 1300,
+    "type": "Cultural",
+    "rating": 4.6,
+    "tripMonth": "October",
+    "minAge": {
+      "children": 8,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "Temple tours",
+      "Mekong River exploration"
+    ],
+    "excluded": [
+      "Meals",
+      "Flights"
+    ],
+    "extraServices": [
+      "Guided temple tour",
+      "Cultural performance"
+    ]
+  },
+  {
+    "popular": true,
+    "id": 58,
+    "days": 12,
+    "locationName": "Suva",
+    "country": "Fiji",
+    "img": "https://i.ibb.co/ZfZN0bL/fiji.jpg",
+    "description": "Indulge in the ultimate escape to Fiji, a tropical haven renowned for its pristine beaches, crystal-clear waters, and warm hospitality. Unwind on sun-kissed shores, where soft sands meet gentle waves, inviting you to relax and rejuvenate. Immerse yourself in the vibrant marine life by snorkeling or diving amidst colorful coral reefs teeming with exotic creatures. Beyond the idyllic beaches, discover the rich cultural heritage of Fiji. Engage with friendly locals, learn about their traditions, and experience authentic Fijian hospitality. From traditional villages to lively markets, every corner of Fiji offers a unique glimpse into the island's soul. Let the rhythm of the South Pacific wash over you as you embrace the ultimate tropical getaway.",
+    "price": 1600,
+    "type": "Cultural",
+    "rating": 4.7,
+    "tripMonth": "April",
+    "minAge": {
+      "children": 6,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "Beach access",
+      "Snorkeling"
+    ],
+    "excluded": [
+      "Meals",
+      "Flights"
+    ],
+    "extraServices": [
+      "Island hopping tour",
+      "Cultural village visit"
+    ]
+  },
+  {
+    "popular": true,
+    "id": 59,
+    "days": 10,
+    "locationName": "Bratislava",
+    "country": "Slovakia",
+    "img": "https://i.ibb.co/ZmbGWwq/slovakia.jpg",
+    "description": "Bratislava, a captivating blend of old-world charm and modern vibrancy, invites you to explore its rich history and culture. Wander through the enchanting medieval old town, where cobblestone streets and Gothic architecture transport you back in time. Immerse yourself in the city's riverside allure, offering stunning views and a tranquil ambiance. Venture beyond the city's heart to discover the nearby mountains, inviting you to embrace nature and outdoor adventures. Bratislava is a destination that seamlessly combines urban exploration with the serenity of the natural world, promising an unforgettable journey through time and space.",
+    "price": 1400,
+    "type": "Cultural",
+    "rating": 4.8,
+    "tripMonth": "July",
+    "minAge": {
+      "children": 6,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "City tours",
+      "Mountain excursions"
+    ],
+    "excluded": [
+      "Meals",
+      "Flights"
+    ],
+    "extraServices": [
+      "Guided city tour",
+      "Mountain hike"
+    ]
+  },
+  {
+    "popular": true,
+    "id": 60,
+    "days": 9,
+    "locationName": "Tashkent",
+    "country": "Uzbekistan",
+    "img": "https://i.ibb.co/bQWdp1V/tanshkent.jpg",
+    "description": "Tashkent, a vibrant metropolis, offers a captivating blend of ancient history and modern allure. Delve into its storied past by exploring magnificent mosques, bustling bazaars, and remnants of the Silk Road. Immerse yourself in the city's architectural wonders, from the grandeur of the Hazrati Imam Complex to the intricate details of the Kukeldash Madrasah. Wander through the lively Chorsu Bazaar, a sensory delight of colors, aromas, and local craftsmanship. Uncover the city's Silk Road heritage as you explore its historical sites and imagine the bustling trade caravans that once traversed these ancient paths. Tashkent invites you to embark on a journey through time, where the echoes of the past intertwine with the vibrancy of the present.",
+    "price": 1350,
+    "type": "Cultural",
+    "rating": 4.9,
+    "tripMonth": "November",
+    "minAge": {
+      "children": 12,
+      "adults": 18
+    },
+    "included": [
+      "Accommodation",
+      "Historical site tours",
+      "Bazaar visits"
+    ],
+    "excluded": [
+      "Meals",
+      "Flights"
+    ],
+    "extraServices": [
+      "Guided city tour",
+      "Silk Road heritage experience"
+    ]
+  }
+]

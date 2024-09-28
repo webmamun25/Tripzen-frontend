@@ -1,0 +1,35 @@
+.reenie-beanie-regular {
+    font-family: "Reenie Beanie", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: #1bbc9b;
+    font-family: Reenie Beanie;
+    font-size: 29.53px;
+    font-weight: 500;
+    line-height: 45px;
+  }
+
+.font-pop{
+    color: rgb(0, 0, 0);
+font-family: Poppins;
+font-size: 50px;
+font-weight: 700;
+line-height: 60px;
+letter-spacing: 0%;
+text-align: left;
+}
+
+.para{
+    color: rgb(110, 110, 110);
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+}
+.world{
+    width:70% ;
+    scale: 1.8;
+
+}
